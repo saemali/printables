@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saemali.github.io/printables/sitemap.xml
